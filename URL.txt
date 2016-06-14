@@ -1,0 +1,5 @@
+Xamarin.FormsでオフラインWEBアプリを作成する方法
+http://sonic.blue/it/744
+
+This is MySite sample code files.
+Use Xamarin Studio.
