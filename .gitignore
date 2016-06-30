@@ -1,0 +1,7 @@
+/Droid/bin/*
+/Droid/obj/*
+/iOS/bin/*
+/iOS/obj/*
+
+#Nuget
+/OffLineWebApp/packages/
